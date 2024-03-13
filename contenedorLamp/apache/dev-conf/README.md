@@ -1,0 +1,1 @@
+Aquí iría el .env.dev. Puesto que no lo mandamos, creo este archivo de texto para poder subir la carpeta dev-conf a github

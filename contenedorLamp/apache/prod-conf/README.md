@@ -1,0 +1,1 @@
+Aquí iría el .env.prod. Puesto que no lo mandamos, creo este archivo de texto para poder subir la carpeta prod-conf a github
